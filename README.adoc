@@ -1,0 +1,20 @@
+= mpi-report =
+
+base/mpi-report-j.pdf::
+  MPI-1 日本語訳
+
+base/mpi-report-j-embedded-osx.pdf::
+  OSX 版 Acrobat で全フォント埋め込み (PDF/A 形式)
+
+base/mpi-report-j-embedded-win.pdf::
+  Windows 版 Acrobat で全フォント埋め込み (PDF/A 形式)
+
+mpi-report-j-gif.pdf::
+  GIF 画像ページを連結
+
+mpi-report-j-ocr.pdf::
+  OCR 適用
+
+build.sh::
+  ビルドスクリプト
+
